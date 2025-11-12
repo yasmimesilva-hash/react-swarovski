@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Julius Sans One", sans-serif;
+}
+
+
+body {
+    margin: 0;
+}
+
+
+
+/* HEADER */
+
+
+header {
+    justify-items: center;
+    height: 200px;
+    background: linear-gradient(96deg, rgba(0, 37, 55, 1) 0%, rgba(0, 71, 107, 1) 100%);
+}
+

@@ -1,159 +1,171 @@
 {
-  "users": [
+  "produtos": [
     {
-      "email": "jacquin@bolos.com",
-      "senha": "1234"
-    }
-  ],
-  "bolos": [
-    {
-      "nome": "Chocolate Belga",
+      "nome": "Pingente Idyllia 3 Flores",
       "categorias": [
-        "chocolate"
+        "Idyllia",
+        "Pingente",
+        "Flor",
+        "Multicor"
       ],
-      "descricao": "Bolo macio de chocolate, aplicado granulado que traz crocância e um sabor irresistível.",
+      "descricao": "Pingente Idyllia, combinação de lapidações, flor, multicor, revestido em dourado.",
       "imagens": [
-        "3458546845741.png"
+        "PINGENTE IDYLLIA 3 FLORES.png"
       ],
-      "id": "f5r1",
-      "preco": 50,
-      "peso": 1.5
+      "id": "p001",
+      "preco": 2000.00,
+      "parcelamento": "ou 10x de R$200,00 sem juros"
     },
     {
-      "nome": "Chocolate com Ninho",
+      "nome": "Pingente Idyllia Borboleta",
       "categorias": [
-        "destaques",
-        "chocolate"
+        "Idyllia",
+        "Pingente",
+        "Pregadeira",
+        "Borboleta",
+        "Multicor",
+        "Pavé"
       ],
-      "descricao": "Bolo macio de chocolate com creme de leite Ninho, um sabor irresistível.",
+      "descricao": "Pingente e pregadeira Idyllia, Combinação de lapidações, Pavé, Borboleta, Multicores, Acabamento de combinação de metais.",
       "imagens": [
-        ""
+        "PINGENTE IDYLLIA BORBOLETA.png"
       ],
-      "id": "a38h",
-      "preco": 59.99,
-      "peso": 1.2
+      "id": "p002",
+      "preco": 2000.00,
+      "parcelamento": "ou 10x de R$200,00 sem juros"
     },
     {
-      "nome": "Cenoura com Chocolate",
+      "nome": "Anel Idyllia Azul",
       "categorias": [
-        "chocolate"
+        "Idyllia",
+        "Anel",
+        "Flor",
+        "Azul"
       ],
-      "descricao": "Bolo macio cenoura com cobertura de chocolate, um sabor família e irresistível.",
+      "descricao": "Anel Idyllia, Combinação de lapidações, Flor, Azul, Revestido em dourado.",
       "imagens": [
-        "4791205837462.png"
+        "ANEL IDYLLIA-AZUL.png"
       ],
-      "id": "bb85",
-      "preco": 39.99,
-      "peso": 1.4
+      "id": "p003",
+      "preco": 1000.00,
+      "parcelamento": "ou 10x de R$200,00 sem juros"
     },
     {
-      "nome": "Ninho com Morango",
+      "nome": "Colar Idyllia Flor (Modelo 1)",
       "categorias": [
-        "chocolate",
-        "morango"
+        "Idyllia",
+        "Colar",
+        "Flor",
+        "Multicor"
       ],
-      "descricao": "",
+      "descricao": "Colar Idyllia, Combinação de lapidações, Flor, Multicor, Revestido em dourado.",
       "imagens": [
-        "6502837192043.png"
+        "COLAR_IDYLLIA_1.png"
       ],
-      "id": "a77q",
-      "preco": 45.5,
-      "peso": null
+      "id": "p004",
+      "preco": 4000.00,
+      "parcelamento": "ou 10x de R$200,00 sem juros"
     },
     {
-      "nome": "Chocolate com Pistache",
+      "nome": "Pingente Idyllia Florido Pavé",
       "categorias": [
-        "chocolate",
-        "destaques"
+        "Idyllia",
+        "Pingente",
+        "Pregadeira",
+        "Flor",
+        "Multicor",
+        "Pavé"
       ],
-      "descricao": "Bolo macio de leite Ninho, com creme delicado e crocante de amendoim para um sabor irresistível.",
+      "descricao": "Pingente e pregadeira Idyllia, Combinação de lapidações, Pavé, Flor, Multicores, Acabamento de combinação de metais.",
       "imagens": [
-        "1983745601290.png"
+        "PINGENTE_IDYLLIA_FLORIDO.png"
       ],
-      "id": "889e",
-      "preco": 75.49,
-      "peso": 0.9
+      "id": "p005",
+      "preco": 3700.00,
+      "parcelamento": "ou 10x de R$200,00 sem juros"
     },
     {
-      "nome": "Chocolate com Oreo",
+      "nome": "Bracelete Idyllia",
       "categorias": [
-        "chocolate",
-        "destaques"
+        "Idyllia",
+        "Bracelete",
+        "Flor",
+        "Multicor"
       ],
-      "descricao": "",
+      "descricao": "Bracelete Idyllia, Combinação de lapidações, Flor, Multicor, Revestido em dourado.",
       "imagens": [
-        "7021948563207.png"
+        "BACELETE_IDYLLIA.png"
       ],
-      "id": "12ww",
-      "preco": 49.99,
-      "peso": 1.4
+      "id": "p006",
+      "preco": 1790.00,
+      "parcelamento": "ou 10x de R$200,00 sem juros"
     },
     {
-      "nome": "Morango com creme",
+      "nome": "Anel Idyllia Flor G",
       "categorias": [
-        "morango",
-        "destaques"
+        "Idyllia",
+        "Anel",
+        "Flor",
+        "Multicor",
+        "Pavé"
       ],
-      "descricao": "Bolo macio de Morango, com recheio cremoso para um sabor irresistível.",
+      "descricao": "Anel Idyllia, Combinação de lapidações, Pavé, Flor, Multicor, Banhado a dourado.",
       "imagens": [
-        ""
+        "ANEL _IDYLLIA _FLOR_G.png"
       ],
-      "id": "1ny1",
-      "preco": 41.7,
-      "peso": null
+      "id": "p007",
+      "preco": 2400.00,
+      "parcelamento": "ou 10x de R$200,00 sem juros"
     },
     {
-      "nome": "Red-velvet",
+      "nome": "Anel Idyllia Verde",
       "categorias": [
-        "morango",
-        "destaques"
+        "Idyllia",
+        "Anel",
+        "Flor",
+        "Verde"
       ],
-      "descricao": "Massa aveludada com recheio suave, combinando sabor marcante e textura delicada em cada fatia.",
+      "descricao": "Anel Idyllia, Combinação de lapidações, Flor, Verde, Revestido em dourado.",
       "imagens": [
-        "5428564784294.png"
+        "ANEL_IDYLLIA_VERDE.png"
       ],
-      "id": "awe7",
-      "preco": 54.9,
-      "peso": 1.1
+      "id": "p008",
+      "preco": 1980.00,
+      "parcelamento": "ou 10x de R$200,00 sem juros"
     },
     {
-      "nome": "Passas",
+      "nome": "Colar Idyllia Pavé (Modelo 2)",
       "categorias": [
-        "natal"
+        "Idyllia",
+        "Colar",
+        "Flor",
+        "Multicor",
+        "Pavé"
       ],
-      "descricao": "Tradicional bolo natalino com massa macia, perfeito para celebrar com um toque de sabor clássico.",
+      "descricao": "Colar Idyllia, Combinação de lapidações, Pavé, Flor, Multicor, Revestido em dourado.",
       "imagens": [
-        "8754856321485.png"
+        "COLAR _IDYLLIA _2.png"
       ],
-      "id": "8jy2",
-      "preco": 42,
-      "peso": 1.3
+      "id": "p009",
+      "preco": 6500.00,
+      "parcelamento": "ou 10x de R$200,00 sem juros"
     },
     {
-      "nome": "Coco recheado",
+      "nome": "Anel Idyllia Clássico",
       "categorias": [
-        "coco"
+        "Idyllia",
+        "Anel",
+        "Flor",
+        "Multicor"
       ],
-      "descricao": "Massa fofinha de coco com recheio cremoso e envolvente, trazendo um sabor tropical irresistível.",
+      "descricao": "Anel Idyllia, Combinação de lapidações, Flor, Multicor, Banhado a dourado.",
       "imagens": [
-        "9786134582154.png"
+        "ANEL_IDYLLIA.png"
       ],
-      "id": "33u3",
-      "preco": 46.9,
-      "peso": null
-    },
-    {
-      "nome": "Bolo de casamento",
-      "categorias": [
-        "cerimonias"
-      ],
-      "descricao": "Elegante e saboroso, ideal para celebrar momentos únicos com um toque de doçura inesquecível.",
-      "imagens": [
-        "7852364781455.png"
-      ],
-      "id": "d7ty",
-      "preco": 120,
-      "peso": 2.5
+      "id": "p010",
+      "preco": 2000.00,
+      "parcelamento": "ou 10x de R$200,00 sem juros"
+      
     }
   ]
 }
